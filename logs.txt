@@ -1,0 +1,13 @@
+2026-03-15 22:25:53.990280 - New file created: monitored_folder\New RTF Text.rtf
+2026-03-15 22:29:47.183818 - File modified: monitored_folder\test.txt
+2026-03-15 22:30:28.090862 - File deleted: monitored_folder\test.txt
+2026-03-15 22:43:58.933374 - New file created: monitored_folder\text.txt
+2026-03-15 22:47:10.256242 - File modified: monitored_folder\text.txt
+2026-03-15 22:53:27.500843 - File modified: monitored_folder\text.txt
+2026-03-15 22:53:27.500841 - File modified: monitored_folder\text.txt
+2026-03-15 22:54:47.432269 - File modified: monitored_folder\text.txt
+2026-03-15 22:54:47.556511 - File modified: monitored_folder\text.txt
+2026-03-15 22:55:35.992244 - File modified: monitored_folder\text.txt
+2026-03-15 22:59:14.020244 - File modified: monitored_folder\text.txt
+2026-03-15 23:02:21.348020 - File modified: monitored_folder\text.txt
+2026-03-15 23:05:00.599215 - File modified: monitored_folder\text.txt
